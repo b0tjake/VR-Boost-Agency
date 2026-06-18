@@ -1,4 +1,24 @@
-﻿# VR Boost Agency
+
+** Fonctionnalités implémentées **
+Les fonctionnalités actuellement développées dans ce prototype sont :
+
+ Landing Page (Page d’accueil)
+Présentation de la solution VR Boost Agency
+Mise en avant du concept de home staging virtuel
+Interface marketing orientée immobilier et mobilier
+ Dashboard
+
+Interface principale après connexion (prototype) contenant 3 modules :
+
+Dashboard
+Vue globale des activités et accès rapides
+Virtual Visits
+Gestion et visualisation des visites virtuelles immobilières
+Furniture Catalog
+Catalogue de mobilier pour le home staging virtuel
+Présentation des meubles et éléments décoratifs
+ 
+ # VR Boost Agency
 
 Prototype d'application web pour presenter une solution de home staging virtuel, de gestion de visites immobilieres et de catalogue mobilier.
 
