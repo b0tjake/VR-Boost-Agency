@@ -1,14 +1,21 @@
 
 ** Fonctionnalités implémentées **
+
+
 Les fonctionnalités actuellement développées dans ce prototype sont :
 
+
  Landing Page (Page d’accueil)
+ 
 Présentation de la solution VR Boost Agency
 Mise en avant du concept de home staging virtuel
 Interface marketing orientée immobilier et mobilier
+
+
  Dashboard
 
 Interface principale après connexion (prototype) contenant 3 modules :
+
 
 Dashboard
 Vue globale des activités et accès rapides
